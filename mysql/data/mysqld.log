@@ -1,0 +1,283 @@
+141013 13:48:24 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 13:48:24 [Note] Plugin 'FEDERATED' is disabled.
+141013 13:48:24 InnoDB: The InnoDB memory heap is disabled
+141013 13:48:24 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 13:48:24 InnoDB: Compressed tables use zlib 1.2.3
+141013 13:48:24 InnoDB: Initializing buffer pool, size = 128.0M
+141013 13:48:24 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file ./ibdata1 did not exist:
+InnoDB: a new database to be created!
+141013 13:48:24  InnoDB: Setting file ./ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+141013 13:48:24  InnoDB: Log file ./ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+141013 13:48:24  InnoDB: Log file ./ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file ./ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+141013 13:48:24 InnoDB: 5.5.40 started; log sequence number 0
+141013 13:48:24 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 13:48:24 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 13:48:24 [Note] Server socket created on IP: '127.0.0.1'.
+141013 13:48:24 [Note] Event Scheduler: Loaded 0 events
+141013 13:48:24 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 15:01:08 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 15:01:08 [Note] Event Scheduler: Purging the queue. 0 events
+141013 15:01:08  InnoDB: Starting shutdown...
+141013 15:01:10  InnoDB: Shutdown completed; log sequence number 2321710
+141013 15:01:10 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 15:01:10 mysqld_safe mysqld from pid file /Applications/wordpress-4.0-1/mysql/data/mysqld.pid ended
+141013 15:07:12 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 15:07:12 [Note] Plugin 'FEDERATED' is disabled.
+141013 15:07:12 InnoDB: The InnoDB memory heap is disabled
+141013 15:07:12 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 15:07:12 InnoDB: Compressed tables use zlib 1.2.3
+141013 15:07:12 InnoDB: Initializing buffer pool, size = 128.0M
+141013 15:07:13 InnoDB: Completed initialization of buffer pool
+141013 15:07:13 InnoDB: highest supported file format is Barracuda.
+141013 15:07:13  InnoDB: Waiting for the background threads to start
+141013 15:07:14 InnoDB: 5.5.40 started; log sequence number 2321710
+141013 15:07:14 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 15:07:14 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 15:07:14 [Note] Server socket created on IP: '127.0.0.1'.
+141013 15:07:14 [Note] Event Scheduler: Loaded 0 events
+141013 15:07:14 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 15:09:03 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 15:09:03 [Note] Event Scheduler: Purging the queue. 0 events
+141013 15:09:03  InnoDB: Starting shutdown...
+141013 15:09:03  InnoDB: Shutdown completed; log sequence number 2321710
+141013 15:09:03 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 15:09:18 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 15:09:18 [Note] Plugin 'FEDERATED' is disabled.
+141013 15:09:18 InnoDB: The InnoDB memory heap is disabled
+141013 15:09:18 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 15:09:18 InnoDB: Compressed tables use zlib 1.2.3
+141013 15:09:18 InnoDB: Initializing buffer pool, size = 128.0M
+141013 15:09:18 InnoDB: Completed initialization of buffer pool
+141013 15:09:18 InnoDB: highest supported file format is Barracuda.
+141013 15:09:18  InnoDB: Waiting for the background threads to start
+141013 15:09:19 InnoDB: 5.5.40 started; log sequence number 2321710
+141013 15:09:19 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 15:09:19 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 15:09:19 [Note] Server socket created on IP: '127.0.0.1'.
+141013 15:09:19 [Note] Event Scheduler: Loaded 0 events
+141013 15:09:19 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 15:11:51 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 15:11:51 [Note] Event Scheduler: Purging the queue. 0 events
+141013 15:11:51  InnoDB: Starting shutdown...
+141013 15:11:52  InnoDB: Shutdown completed; log sequence number 2321720
+141013 15:11:52 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 15:12:15 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 15:12:15 [Note] Plugin 'FEDERATED' is disabled.
+141013 15:12:15 InnoDB: The InnoDB memory heap is disabled
+141013 15:12:15 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 15:12:15 InnoDB: Compressed tables use zlib 1.2.3
+141013 15:12:15 InnoDB: Initializing buffer pool, size = 128.0M
+141013 15:12:15 InnoDB: Completed initialization of buffer pool
+141013 15:12:15 InnoDB: highest supported file format is Barracuda.
+141013 15:12:16  InnoDB: Waiting for the background threads to start
+141013 15:12:17 InnoDB: 5.5.40 started; log sequence number 2321720
+141013 15:12:17 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 15:12:17 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 15:12:17 [Note] Server socket created on IP: '127.0.0.1'.
+141013 15:12:17 [Note] Event Scheduler: Loaded 0 events
+141013 15:12:17 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 15:39:29 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 15:39:29 [Note] Event Scheduler: Purging the queue. 0 events
+141013 15:39:29  InnoDB: Starting shutdown...
+141013 15:39:30  InnoDB: Shutdown completed; log sequence number 2321730
+141013 15:39:30 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 15:39:43 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 15:39:43 [Note] Plugin 'FEDERATED' is disabled.
+141013 15:39:43 InnoDB: The InnoDB memory heap is disabled
+141013 15:39:43 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 15:39:43 InnoDB: Compressed tables use zlib 1.2.3
+141013 15:39:43 InnoDB: Initializing buffer pool, size = 128.0M
+141013 15:39:43 InnoDB: Completed initialization of buffer pool
+141013 15:39:43 InnoDB: highest supported file format is Barracuda.
+141013 15:39:43  InnoDB: Waiting for the background threads to start
+141013 15:39:44 InnoDB: 5.5.40 started; log sequence number 2321730
+141013 15:39:44 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 15:39:44 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 15:39:44 [Note] Server socket created on IP: '127.0.0.1'.
+141013 15:39:44 [Note] Event Scheduler: Loaded 0 events
+141013 15:39:44 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 15:43:24 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 15:43:24 [Note] Event Scheduler: Purging the queue. 0 events
+141013 15:43:24  InnoDB: Starting shutdown...
+141013 15:43:25  InnoDB: Shutdown completed; log sequence number 2321730
+141013 15:43:25 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 15:43:39 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 15:43:39 [Note] Plugin 'FEDERATED' is disabled.
+141013 15:43:39 InnoDB: The InnoDB memory heap is disabled
+141013 15:43:39 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 15:43:39 InnoDB: Compressed tables use zlib 1.2.3
+141013 15:43:39 InnoDB: Initializing buffer pool, size = 128.0M
+141013 15:43:39 InnoDB: Completed initialization of buffer pool
+141013 15:43:39 InnoDB: highest supported file format is Barracuda.
+141013 15:43:39  InnoDB: Waiting for the background threads to start
+141013 15:43:40 InnoDB: 5.5.40 started; log sequence number 2321730
+141013 15:43:40 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 15:43:40 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 15:43:40 [Note] Server socket created on IP: '127.0.0.1'.
+141013 15:43:40 [Note] Event Scheduler: Loaded 0 events
+141013 15:43:40 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 15:46:51 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 15:46:51 [Note] Event Scheduler: Purging the queue. 0 events
+141013 15:46:51  InnoDB: Starting shutdown...
+141013 15:46:53  InnoDB: Shutdown completed; log sequence number 2321740
+141013 15:46:53 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 15:47:23 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 15:47:23 [Note] Plugin 'FEDERATED' is disabled.
+141013 15:47:23 InnoDB: The InnoDB memory heap is disabled
+141013 15:47:23 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 15:47:23 InnoDB: Compressed tables use zlib 1.2.3
+141013 15:47:23 InnoDB: Initializing buffer pool, size = 128.0M
+141013 15:47:23 InnoDB: Completed initialization of buffer pool
+141013 15:47:23 InnoDB: highest supported file format is Barracuda.
+141013 15:47:23  InnoDB: Waiting for the background threads to start
+141013 15:47:24 InnoDB: 5.5.40 started; log sequence number 2321740
+141013 15:47:24 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 15:47:24 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 15:47:24 [Note] Server socket created on IP: '127.0.0.1'.
+141013 15:47:24 [Note] Event Scheduler: Loaded 0 events
+141013 15:47:24 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 16:02:09 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 16:02:09 [Note] Event Scheduler: Purging the queue. 0 events
+141013 16:02:09  InnoDB: Starting shutdown...
+141013 16:02:10  InnoDB: Shutdown completed; log sequence number 2321750
+141013 16:02:10 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 16:03:00 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 16:03:00 [Note] Plugin 'FEDERATED' is disabled.
+141013 16:03:00 InnoDB: The InnoDB memory heap is disabled
+141013 16:03:00 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 16:03:00 InnoDB: Compressed tables use zlib 1.2.3
+141013 16:03:00 InnoDB: Initializing buffer pool, size = 128.0M
+141013 16:03:00 InnoDB: Completed initialization of buffer pool
+141013 16:03:00 InnoDB: highest supported file format is Barracuda.
+141013 16:03:00  InnoDB: Waiting for the background threads to start
+141013 16:03:01 InnoDB: 5.5.40 started; log sequence number 2321750
+141013 16:03:01 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 16:03:01 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 16:03:01 [Note] Server socket created on IP: '127.0.0.1'.
+141013 16:03:01 [Note] Event Scheduler: Loaded 0 events
+141013 16:03:01 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 16:04:29 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 16:04:29 [Note] Event Scheduler: Purging the queue. 0 events
+141013 16:04:29  InnoDB: Starting shutdown...
+141013 16:04:29  InnoDB: Shutdown completed; log sequence number 2321750
+141013 16:04:29 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 16:04:51 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 16:04:51 [Note] Plugin 'FEDERATED' is disabled.
+141013 16:04:51 InnoDB: The InnoDB memory heap is disabled
+141013 16:04:51 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 16:04:51 InnoDB: Compressed tables use zlib 1.2.3
+141013 16:04:51 InnoDB: Initializing buffer pool, size = 128.0M
+141013 16:04:51 InnoDB: Completed initialization of buffer pool
+141013 16:04:51 InnoDB: highest supported file format is Barracuda.
+141013 16:04:51  InnoDB: Waiting for the background threads to start
+141013 16:04:52 InnoDB: 5.5.40 started; log sequence number 2321750
+141013 16:04:52 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 16:04:52 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 16:04:52 [Note] Server socket created on IP: '127.0.0.1'.
+141013 16:04:52 [Note] Event Scheduler: Loaded 0 events
+141013 16:04:52 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 16:06:15 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 16:06:15 [Note] Event Scheduler: Purging the queue. 0 events
+141013 16:06:15  InnoDB: Starting shutdown...
+141013 16:06:16  InnoDB: Shutdown completed; log sequence number 2321750
+141013 16:06:16 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 16:06:55 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 16:06:55 [Note] Plugin 'FEDERATED' is disabled.
+141013 16:06:55 InnoDB: The InnoDB memory heap is disabled
+141013 16:06:55 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 16:06:55 InnoDB: Compressed tables use zlib 1.2.3
+141013 16:06:55 InnoDB: Initializing buffer pool, size = 128.0M
+141013 16:06:55 InnoDB: Completed initialization of buffer pool
+141013 16:06:55 InnoDB: highest supported file format is Barracuda.
+141013 16:06:55  InnoDB: Waiting for the background threads to start
+141013 16:06:56 InnoDB: 5.5.40 started; log sequence number 2321750
+141013 16:06:56 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 16:06:56 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 16:06:56 [Note] Server socket created on IP: '127.0.0.1'.
+141013 16:06:56 [Note] Event Scheduler: Loaded 0 events
+141013 16:06:56 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141013 16:42:48 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Normal shutdown
+
+141013 16:42:48 [Note] Event Scheduler: Purging the queue. 0 events
+141013 16:42:48  InnoDB: Starting shutdown...
+141013 16:42:49  InnoDB: Shutdown completed; log sequence number 2321760
+141013 16:42:49 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: Shutdown complete
+
+141013 16:43:13 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141013 16:43:13 [Note] Plugin 'FEDERATED' is disabled.
+141013 16:43:13 InnoDB: The InnoDB memory heap is disabled
+141013 16:43:13 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141013 16:43:13 InnoDB: Compressed tables use zlib 1.2.3
+141013 16:43:13 InnoDB: Initializing buffer pool, size = 128.0M
+141013 16:43:13 InnoDB: Completed initialization of buffer pool
+141013 16:43:13 InnoDB: highest supported file format is Barracuda.
+141013 16:43:13  InnoDB: Waiting for the background threads to start
+141013 16:43:14 InnoDB: 5.5.40 started; log sequence number 2321760
+141013 16:43:14 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141013 16:43:14 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141013 16:43:14 [Note] Server socket created on IP: '127.0.0.1'.
+141013 16:43:14 [Note] Event Scheduler: Loaded 0 events
+141013 16:43:14 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+141018 08:37:55 mysqld_safe Starting mysqld.bin daemon with databases from /Applications/wordpress-4.0-1/mysql/data
+141018  8:37:55 [Note] Plugin 'FEDERATED' is disabled.
+141018  8:37:55 InnoDB: The InnoDB memory heap is disabled
+141018  8:37:55 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+141018  8:37:55 InnoDB: Compressed tables use zlib 1.2.3
+141018  8:37:55 InnoDB: Initializing buffer pool, size = 128.0M
+141018  8:37:55 InnoDB: Completed initialization of buffer pool
+141018  8:37:55 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+141018  8:37:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+141018  8:37:55  InnoDB: Waiting for the background threads to start
+141018  8:37:56 InnoDB: 5.5.40 started; log sequence number 2819889
+141018  8:37:56 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+141018  8:37:56 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+141018  8:37:56 [Note] Server socket created on IP: '127.0.0.1'.
+141018  8:37:56 [Note] Event Scheduler: Loaded 0 events
+141018  8:37:56 [Note] /Applications/wordpress-4.0-1/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.5.40'  socket: '/Applications/wordpress-4.0-1/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)

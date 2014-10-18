@@ -1,0 +1,12 @@
+#!/bin/sh
+DYLD_LIBRARY_PATH=/Applications/wordpress-4.0-1/mysql/lib:$DYLD_LIBRARY_PATH
+export DYLD_LIBRARY_PATH
+case "$@" in
+  *--no-defaults*)
+    exec $0.bin "$@"
+    ;;
+  *--defaults-extra-file*)
+    exec $0.bin "$@"
+    ;;
+esac
+exec $0.bin --defaults-file=/Applications/wordpress-4.0-1/mysql/my.cnf "$@"

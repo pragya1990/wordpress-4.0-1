@@ -1,0 +1,6 @@
+#!/bin/sh
+
+PATH="/Applications/wordpress-4.0-1/sqlite/bin:/Applications/wordpress-4.0-1/php/bin:/Applications/wordpress-4.0-1/mysql/bin:/Applications/wordpress-4.0-1/apache2/bin:/Applications/wordpress-4.0-1/common/bin:$PATH"
+
+exec /bin/bash --noprofile --norc
+                    

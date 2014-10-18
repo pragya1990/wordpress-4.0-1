@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /Applications/wordpress-4.0-1/scripts/setenv.sh
+
+exec /Applications/wordpress-4.0-1/common/bin/.xmlcatalog.bin  "$@"

@@ -1,0 +1,93 @@
+[Mon Oct 13 13:48:50.622096 2014] [ssl:warn] [pid 996] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 13:48:50.723964 2014] [ssl:warn] [pid 997] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 13:48:50.724311 2014] [lbmethod_heartbeat:notice] [pid 997] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 13:48:50.727540 2014] [mpm_prefork:notice] [pid 997] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 13:48:50.727592 2014] [core:notice] [pid 997] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 13:48:55.047903 2014] [mpm_prefork:notice] [pid 997] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 13:48:59.151751 2014] [ssl:warn] [pid 1022] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 13:48:59.194917 2014] [ssl:warn] [pid 1023] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 13:48:59.195277 2014] [lbmethod_heartbeat:notice] [pid 1023] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 13:48:59.198381 2014] [mpm_prefork:notice] [pid 1023] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 13:48:59.198471 2014] [core:notice] [pid 1023] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 13:49:12.543364 2014] [mpm_prefork:notice] [pid 1023] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 13:49:16.634208 2014] [ssl:warn] [pid 1096] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 13:49:16.680310 2014] [ssl:warn] [pid 1097] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 13:49:16.680553 2014] [lbmethod_heartbeat:notice] [pid 1097] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 13:49:16.682934 2014] [mpm_prefork:notice] [pid 1097] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 13:49:16.682990 2014] [core:notice] [pid 1097] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 14:00:06.506552 2014] [mpm_prefork:notice] [pid 1097] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 14:00:22.340193 2014] [ssl:warn] [pid 2191] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 14:00:22.433950 2014] [ssl:warn] [pid 2192] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 14:00:22.434163 2014] [lbmethod_heartbeat:notice] [pid 2192] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 14:00:22.438262 2014] [mpm_prefork:notice] [pid 2192] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 14:00:22.438372 2014] [core:notice] [pid 2192] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 14:02:54.074768 2014] [mpm_prefork:notice] [pid 2192] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 14:10:23.278559 2014] [lbmethod_heartbeat:notice] [pid 2963] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 14:10:23.283018 2014] [mpm_prefork:notice] [pid 2963] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 14:10:23.283108 2014] [core:notice] [pid 2963] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 15:01:06.103844 2014] [mpm_prefork:notice] [pid 2963] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 15:07:45.218244 2014] [ssl:warn] [pid 8441] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:07:45.337968 2014] [ssl:warn] [pid 8442] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:07:45.338208 2014] [lbmethod_heartbeat:notice] [pid 8442] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 15:07:45.341182 2014] [mpm_prefork:notice] [pid 8442] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 15:07:45.341246 2014] [core:notice] [pid 8442] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 15:09:00.433323 2014] [mpm_prefork:notice] [pid 8442] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 15:09:49.715894 2014] [ssl:warn] [pid 8980] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:09:49.762345 2014] [ssl:warn] [pid 8981] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:09:49.762671 2014] [lbmethod_heartbeat:notice] [pid 8981] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 15:09:49.765764 2014] [mpm_prefork:notice] [pid 8981] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 15:09:49.765830 2014] [core:notice] [pid 8981] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 15:11:46.329052 2014] [mpm_prefork:notice] [pid 8981] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 15:31:59.741620 2014] [ssl:warn] [pid 11274] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:31:59.875813 2014] [ssl:warn] [pid 11277] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:31:59.876051 2014] [lbmethod_heartbeat:notice] [pid 11277] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 15:31:59.878711 2014] [mpm_prefork:notice] [pid 11277] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 15:31:59.878775 2014] [core:notice] [pid 11277] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 15:39:26.815184 2014] [mpm_prefork:notice] [pid 11277] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 15:40:14.769932 2014] [ssl:warn] [pid 12377] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:40:14.817040 2014] [ssl:warn] [pid 12378] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:40:14.817356 2014] [lbmethod_heartbeat:notice] [pid 12378] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 15:40:14.820446 2014] [mpm_prefork:notice] [pid 12378] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 15:40:14.820534 2014] [core:notice] [pid 12378] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 15:43:21.704277 2014] [mpm_prefork:notice] [pid 12378] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 15:44:11.574161 2014] [ssl:warn] [pid 13072] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:44:11.617078 2014] [ssl:warn] [pid 13073] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:44:11.617376 2014] [lbmethod_heartbeat:notice] [pid 13073] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 15:44:11.621749 2014] [mpm_prefork:notice] [pid 13073] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 15:44:11.621842 2014] [core:notice] [pid 13073] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 15:46:49.052204 2014] [mpm_prefork:notice] [pid 13073] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 15:47:49.490191 2014] [ssl:warn] [pid 13726] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:47:49.544447 2014] [ssl:warn] [pid 13727] AH01909: 73.43.182.187:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 15:47:49.544616 2014] [lbmethod_heartbeat:notice] [pid 13727] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 15:47:49.546339 2014] [mpm_prefork:notice] [pid 13727] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 15:47:49.546396 2014] [core:notice] [pid 13727] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 16:02:05.973622 2014] [mpm_prefork:notice] [pid 13727] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 16:05:23.360849 2014] [ssl:warn] [pid 15976] AH01909: 143.215.27.105:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 16:05:23.480588 2014] [ssl:warn] [pid 15977] AH01909: 143.215.27.105:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 16:05:23.480920 2014] [lbmethod_heartbeat:notice] [pid 15977] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 16:05:23.484530 2014] [mpm_prefork:notice] [pid 15977] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 16:05:23.484595 2014] [core:notice] [pid 15977] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 16:06:15.295259 2014] [mpm_prefork:notice] [pid 15977] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 16:07:26.499071 2014] [ssl:warn] [pid 16508] AH01909: 143.215.27.105:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 16:07:26.621331 2014] [ssl:warn] [pid 16509] AH01909: 143.215.27.105:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 16:07:26.621672 2014] [lbmethod_heartbeat:notice] [pid 16509] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 16:07:26.624037 2014] [mpm_prefork:notice] [pid 16509] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 16:07:26.624093 2014] [core:notice] [pid 16509] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Mon Oct 13 16:42:44.742304 2014] [mpm_prefork:notice] [pid 16509] AH00169: caught SIGTERM, shutting down
+[Mon Oct 13 16:43:45.931330 2014] [ssl:warn] [pid 20106] AH01909: 143.215.27.105:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 16:43:46.067025 2014] [ssl:warn] [pid 20107] AH01909: 143.215.27.105:8443:0 server certificate does NOT include an ID which matches the server name
+[Mon Oct 13 16:43:46.067367 2014] [lbmethod_heartbeat:notice] [pid 20107] AH02282: No slotmem from mod_heartmonitor
+[Mon Oct 13 16:43:46.069792 2014] [mpm_prefork:notice] [pid 20107] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Mon Oct 13 16:43:46.069855 2014] [core:notice] [pid 20107] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Sat Oct 18 08:55:37.585039 2014] [ssl:warn] [pid 17165] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 18 08:55:37.715278 2014] [ssl:warn] [pid 17166] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 18 08:55:37.715590 2014] [lbmethod_heartbeat:notice] [pid 17166] AH02282: No slotmem from mod_heartmonitor
+[Sat Oct 18 08:55:37.716089 2014] [core:warn] [pid 17166] AH00098: pid file /Applications/wordpress-4.0-1/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 18 08:55:37.718177 2014] [mpm_prefork:notice] [pid 17166] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Sat Oct 18 08:55:37.718224 2014] [core:notice] [pid 17166] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
+[Sat Oct 18 09:05:58.487817 2014] [mpm_prefork:notice] [pid 17166] AH00169: caught SIGTERM, shutting down
+[Sat Oct 18 09:06:07.362300 2014] [ssl:warn] [pid 18160] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 18 09:06:07.408250 2014] [ssl:warn] [pid 18161] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sat Oct 18 09:06:07.408421 2014] [lbmethod_heartbeat:notice] [pid 18161] AH02282: No slotmem from mod_heartmonitor
+[Sat Oct 18 09:06:07.410297 2014] [mpm_prefork:notice] [pid 18161] AH00163: Apache/2.4.10 (Unix) PHP/5.4.33 OpenSSL/1.0.1i configured -- resuming normal operations
+[Sat Oct 18 09:06:07.410338 2014] [core:notice] [pid 18161] AH00094: Command line: '/Applications/wordpress-4.0-1/apache2/bin/httpd -f /Applications/wordpress-4.0-1/apache2/conf/httpd.conf'
